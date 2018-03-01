@@ -1,4 +1,4 @@
-# Laravel Blog JWT API
+# React Native Blog
 
 This is a React Native blog app that communicates with a Laravel Api (JWT Auth)<br/>
 
